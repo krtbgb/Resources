@@ -2,7 +2,7 @@
 A compilation of resources I find useful.
 
 ## News
-- [TechCrunch] https://techcrunch.com/
+- [TechCrunch](https://techcrunch.com/)
 - https://news.ycombinator.com/
 
 ## Productivity
