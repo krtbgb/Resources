@@ -18,15 +18,14 @@ A compilation of resources I find useful.
 - [Personal Finance for Engineers](https://cs007.blog/)
 
 ## Coding
-### Architecture/Design
 - [The Pragmatic Programmer](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
-### Golang
+- [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871)
 - [Golang Weekly](https://golangweekly.com/)
 - [The Go Programming Language](https://www.gopl.io/)
 - [Dave Cheney's Blog](https://dave.cheney.net/)
+- [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Awesome Go](https://awesome-go.com/)
 - [Go Proverbs](https://go-proverbs.github.io/)
-- [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 ## Security
 - [Security in Computing](https://ahsanghazi.files.wordpress.com/2017/03/263973122-security-in-computing-5-e-charles-p-pfleeger-pdf1.pdf)
