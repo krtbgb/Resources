@@ -9,6 +9,7 @@ A compilation of resources I find useful.
 - [Sam Altman's Blog](http://blog.samaltman.com/)
 - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [Compounding Knowledge](https://fs.blog/2019/02/compounding-knowledge/)
+- [Pragmatic Thinking and Learning](https://www.e-reading.club/bookreader.php/137202/Pragmatic_Thinking_and_Learning_-_Refactor_Your_Wetware.pdf)
 
 ## Finance
 - [r/investing](https://www.reddit.com/r/investing)
