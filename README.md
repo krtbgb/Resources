@@ -11,6 +11,7 @@ A compilation of resources I find useful.
 - [Compounding Knowledge](https://fs.blog/2019/02/compounding-knowledge/)
 - [Pragmatic Thinking and Learning](https://www.e-reading.club/bookreader.php/137202/Pragmatic_Thinking_and_Learning_-_Refactor_Your_Wetware.pdf)
 - [Notion](https://www.notion.so/)
+- [Flux](https://justgetflux.com/)
 
 ## Finance
 - [r/investing](https://www.reddit.com/r/investing)
