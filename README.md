@@ -35,4 +35,4 @@ A compilation of resources I find useful.
 ## Health
 - [5/3/1 Program](https://www.t-nation.com/workouts/531-how-to-build-pure-strength)
 
-## Congfig
+## Config
