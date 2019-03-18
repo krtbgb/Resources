@@ -14,6 +14,7 @@ A compilation of resources I find useful.
 - [Flux](https://justgetflux.com/)
 
 ## Finance
+- [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
 - [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8)
 - [Nerd Wallet](https://www.nerdwallet.com/)
 - [r/investing](https://www.reddit.com/r/investing)
