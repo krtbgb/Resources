@@ -14,6 +14,8 @@ A compilation of resources I find useful.
 - [Flux](https://justgetflux.com/)
 
 ## Finance
+- [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8)
+- [Nerd Wallet](https://www.nerdwallet.com/)
 - [r/investing](https://www.reddit.com/r/investing)
 - [r/personalfinance](https://www.reddit.com/r/personalfinance)
 - [Personal Finance for Engineers](https://cs007.blog/)
