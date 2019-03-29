@@ -5,6 +5,7 @@ A compilation of resources I find useful.
 - [TechCrunch](https://techcrunch.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Wall Street Journal](https://www.wsj.com/)
+- [New York Times](https://www.nytimes.com/)
 
 ## Productivity
 - [Sam Altman's Blog](http://blog.samaltman.com/)
