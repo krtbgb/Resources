@@ -21,8 +21,9 @@ A compilation of resources I find useful.
 - [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
 - [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8)
 - [Nerd Wallet](https://www.nerdwallet.com/)
-- [r/investing](https://www.reddit.com/r/investing)
-- [r/personalfinance](https://www.reddit.com/r/personalfinance)
+- [Investment Philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
+- [Lazy Portfolios](https://www.bogleheads.org/wiki/Lazy_portfolios)
+- [Tax Efficient Fund Placement](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement)
 - [Personal Finance for Engineers](https://cs007.blog/)
 
 ## Coding
