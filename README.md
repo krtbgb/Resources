@@ -28,6 +28,7 @@ A compilation of resources I find useful.
 ## Coding
 - [The Pragmatic Programmer](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871)
+- [The Missing Sememster of your CS Education](https://missing.csail.mit.edu/)
 - [Golang Weekly](https://golangweekly.com/)
 - [The Go Programming Language](https://www.gopl.io/)
 - [Dave Cheney's Blog](https://dave.cheney.net/)
