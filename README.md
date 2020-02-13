@@ -20,6 +20,9 @@ A compilation of resources I find useful.
 - [Notion](https://www.notion.so/)
 - [Flux](https://justgetflux.com/)
 
+## Interview Prep
+- TODO
+
 ## Finance
 - [Investment Philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
 - [Lazy Portfolios](https://www.bogleheads.org/wiki/Lazy_portfolios)
