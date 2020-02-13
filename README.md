@@ -21,7 +21,7 @@ A compilation of resources I find useful.
 - [Flux](https://justgetflux.com/)
 
 ## Interview Prep
-- TODO
+- [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 ## Finance
 - [Investment Philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
