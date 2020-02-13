@@ -9,7 +9,7 @@ A compilation of resources I find useful.
 - [Bloomberg](https://www.bloomberg.com/)
 
 ## Entrepreneurship
-- [Course Lessions - YCombinator Startup School](https://www.startupschool.org/videos)
+- [Course Lessons - YCombinator Startup School](https://www.startupschool.org/videos)
 
 ## Productivity
 - [Sam Altman's Blog](http://blog.samaltman.com/)
