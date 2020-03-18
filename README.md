@@ -23,6 +23,7 @@ A compilation of resources I find useful.
 - [Pragmatic Thinking and Learning](https://www.e-reading.club/bookreader.php/137202/Pragmatic_Thinking_and_Learning_-_Refactor_Your_Wetware.pdf)
 - [Notion](https://www.notion.so/)
 - [Flux](https://justgetflux.com/)
+- [Reading Comprehension](https://jamesclear.com/reading-comprehension-strategies)
 
 ## Interview Prep
 - [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
