@@ -24,6 +24,7 @@ A compilation of resources I find useful.
 - [Notion](https://www.notion.so/)
 - [Flux](https://justgetflux.com/)
 - [Reading Comprehension](https://jamesclear.com/reading-comprehension-strategies)
+- [Roam Research](https://roamresearch.com/)
 
 ## Interview Prep
 - [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
@@ -44,6 +45,7 @@ A compilation of resources I find useful.
 - [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Awesome Go](https://awesome-go.com/)
 - [Go Proverbs](https://go-proverbs.github.io/)
+- [Golang Study Guide](https://github.com/hoanhan101/ultimate-go)
 
 ## Security
 - [Security in Computing](https://ahsanghazi.files.wordpress.com/2017/03/263973122-security-in-computing-5-e-charles-p-pfleeger-pdf1.pdf)
