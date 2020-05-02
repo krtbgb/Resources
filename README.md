@@ -47,6 +47,9 @@ A compilation of resources I find useful.
 - [Go Proverbs](https://go-proverbs.github.io/)
 - [Golang Study Guide](https://github.com/hoanhan101/ultimate-go)
 
+## Economics
+- [How the Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+
 ## Security
 - [Security in Computing](https://ahsanghazi.files.wordpress.com/2017/03/263973122-security-in-computing-5-e-charles-p-pfleeger-pdf1.pdf)
 - [Practical Malware Analysis](http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf)
