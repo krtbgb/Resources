@@ -25,6 +25,7 @@ A compilation of resources I find useful.
 - [Flux](https://justgetflux.com/)
 - [Reading Comprehension](https://jamesclear.com/reading-comprehension-strategies)
 - [Roam Research](https://roamresearch.com/)
+- [Principles](https://www.youtube.com/playlist?list=PLykIL_1_MFWkWDDgvdZ6L7rsvKCKl-39j)
 
 ## Interview Prep
 - [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
