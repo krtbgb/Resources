@@ -48,6 +48,9 @@ A compilation of resources I find useful.
 - [Go Proverbs](https://go-proverbs.github.io/)
 - [Golang Study Guide](https://github.com/hoanhan101/ultimate-go)
 
+## Success
+- [Patrick Collison's Advice](https://patrickcollison.com/advice)
+
 ## Economics
 - [How the Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 
