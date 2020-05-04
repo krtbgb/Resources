@@ -26,6 +26,7 @@ A compilation of resources I find useful.
 - [Reading Comprehension](https://jamesclear.com/reading-comprehension-strategies)
 - [Roam Research](https://roamresearch.com/)
 - [Principles](https://www.youtube.com/playlist?list=PLykIL_1_MFWkWDDgvdZ6L7rsvKCKl-39j)
+- [Patrick Collison's Advice](https://patrickcollison.com/advice)
 
 ## Interview Prep
 - [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
@@ -47,9 +48,6 @@ A compilation of resources I find useful.
 - [Awesome Go](https://awesome-go.com/)
 - [Go Proverbs](https://go-proverbs.github.io/)
 - [Golang Study Guide](https://github.com/hoanhan101/ultimate-go)
-
-## Success
-- [Patrick Collison's Advice](https://patrickcollison.com/advice)
 
 ## Economics
 - [How the Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0)
