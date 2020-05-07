@@ -59,3 +59,6 @@ A compilation of resources I find useful.
 ## Health
 - [5/3/1 Program](https://www.t-nation.com/workouts/531-how-to-build-pure-strength)
 - [Recommended Routine (r/bodyweightfitness)](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
+
+## My Book List
+- Coming Soon
